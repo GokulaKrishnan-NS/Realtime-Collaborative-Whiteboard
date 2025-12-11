@@ -1,5 +1,26 @@
-<<<<<<< HEAD
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+PROJECT OVERVIEW
+
+Realtime Collaborative Whiteboard
+A collaborative digital canvas where multiple users can draw, write, erase, and interact in real time using WebSockets (Socket.io).
+Purpose
+The goal of this project is to create a simple yet powerful online whiteboard where multiple users can draw together in real time.
+
+This repository provides a **starter boilerplate** with:
+- Next.js project scaffold  
+- App Router structure (`/app` folder)
+- A basic `/board` page
+- Reusable React components (`Canvas`, `Toolbar`)
+- Initial Socket.io backend route
+- Clean folder structure ready for contributors
+  
+This project aims to create an easy, fast, and modern online whiteboard that can be used for:
+- Brainstorming sessions  
+- Online study discussions  
+- Classroom explanations  
+- Quick sketch sharing  
+- Collaborative design  
+
+The goal is to build a scalable platform where contributors can add tools, improve UI, and enhance real-time syncing.
 
 ## Getting Started
 
@@ -14,12 +35,6 @@ pnpm dev
 # or
 bun dev
 ```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
 
 ## Learn More
 
@@ -202,4 +217,3 @@ Deployment (Vercel)
 Rate limiting
 
 Optimizing socket performance
->>>>>>> 9adda24f4cf1ab9465668c4dc6c558d7b6e2e618
