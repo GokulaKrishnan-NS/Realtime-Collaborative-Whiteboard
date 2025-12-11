@@ -58,28 +58,51 @@ The goal is to build a scalable platform where contributors can add tools, impro
 ---
 
 my-whiteboard/
+
 │
+
 ├── app/
-│   ├── page.js               # Home page
-│   ├── layout.js             # Root layout wrapper
-│   ├── globals.css           # Global styles
+
+│   ├── page.js 
+
+│   ├── layout.js 
+
+│   ├── globals.css
+
 │   │
+
 │   ├── board/
-│   │   └── page.js           # Whiteboard UI page
+
+│   │   └── page.js  
+
 │   │
+
 │   └── api/
+
 │       └── socket/
-│           └── route.js      # Socket.io backend route
+
+│           └── route.js 
+
 │
+
 ├── components/
-│   ├── Canvas.js             # Canvas drawing logic
-│   └── Toolbar.js            # Toolbar UI (brush, eraser, colors...)
+
+│   ├── Canvas.js 
+
+│   └── Toolbar.js 
+
 │
+
 ├── public/
+
 │   └── favicon.ico
+
 │
+
 ├── package.json
+
 └── next.config.js
+
 
 
 ---
