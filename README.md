@@ -127,9 +127,9 @@ my-whiteboard/
 
 ---
 
-##Contributors can work on:
+## Contributors can work on:
 
--Canvas
+Canvas
 
 Freehand drawing
 
@@ -141,7 +141,7 @@ Brush sizes
 
 Clear screen
 
-- Sockets (Real-time)
+Sockets (Real-time)
 
 Sync drawing strokes
 
@@ -149,7 +149,7 @@ User cursors
 
 Undo/redo sync
 
-- UI/UX
+UI/UX
 
 Better toolbar
 
@@ -157,7 +157,7 @@ Responsive design
 
 Multi-board rooms
 
--Infra
+Infra
 
 Deployment (Vercel)
 
