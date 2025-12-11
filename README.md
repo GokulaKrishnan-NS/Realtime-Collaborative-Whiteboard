@@ -1,8 +1,8 @@
-# Realtime-Multiplayer-Whiteboard
+# Realtime-Collaborative-Whiteboard
 
 PROJECT OVERVIEW
 
-Realtime Multiplayer Whiteboard
+Realtime Collaborative Whiteboard
 A collaborative digital canvas where multiple users can draw, write, erase, and interact in real time using WebSockets (Socket.io).
 Purpose
 The goal of this project is to create a simple yet powerful online whiteboard where multiple users can draw together in real time.
